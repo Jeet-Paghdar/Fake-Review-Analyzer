@@ -280,7 +280,6 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     <div style="font-size:0.75rem;color:#484f58;text-align:center;">
-        Built for SCAAI Research Internship 2026<br>
         NLP · Deep Learning · XAI · Fraud Detection
     </div>
     """, unsafe_allow_html=True)
@@ -501,8 +500,7 @@ if analyze_btn:
             st.markdown("---")
             st.markdown("""
             <div style="font-size:0.8rem;color:#484f58;text-align:center;padding:1rem 0;">
-                🔍 Review Forensics AI &nbsp;|&nbsp; Deep Learning + Explainable AI &nbsp;|&nbsp;
-                Built for SCAAI Research Internship Drive 2026
+                🔍 Review Forensics AI &nbsp;|&nbsp; Deep Learning + Explainable AI
             </div>
             """, unsafe_allow_html=True)
 
