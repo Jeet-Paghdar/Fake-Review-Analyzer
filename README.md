@@ -135,6 +135,4 @@ fake_review_analyzer/
 - [ ] Integrate with live Amazon/Flipkart product URLs via web scraping
 - [ ] Deploy to Streamlit Cloud for public access
 
----
 
-*Built for SCAAI Research Internship Drive 2026*
