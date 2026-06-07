@@ -168,3 +168,4 @@ if __name__ == "__main__":
     print(f"✅ Dataset saved: {len(df)} total rows")
     print(f"   Fake      : {df['label'].sum()}")
     print(f"   Authentic : {(df['label'] == 0).sum()}")
+# Finalized data generation parameters
