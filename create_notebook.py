@@ -477,3 +477,4 @@ print()
 print("1. Copy the long token string from Kaggle (it should look like 'eyJhb...')")
 print("2. Upload the newly generated train_bert.ipynb to Google Colab")
 print("3. Run the notebook. When asked, PASTE the token string into the text box and press Enter.")
+# Finalized notebook generator structure
